@@ -1,0 +1,36 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      2  HN  UNK N   0      21.179  -1.600  55.678  1.00  0.00      gefi H  
+ATOM      4  HN  UNK N   0      25.183  -1.003  54.985  1.00  0.00      gefi H  
+TER       5      UNK N   0 
+HETATM    1  N   UNK N   0      21.921  -1.239  55.078  0.00  0.00      gefi N  
+HETATM    3  N   UNK N   0      24.216  -0.904  54.675  0.00  0.00      gefi N  
+HETATM    5  C   UNK N   0      20.924   0.643  51.503  0.00  0.00      gefi C  
+HETATM    6  C   UNK N   0      22.621  -0.160  53.054  0.00  0.00      gefi C  
+HETATM    7  C   UNK N   0      22.270   0.491  51.852  0.00  0.00      gefi C  
+HETATM    8  C   UNK N   0      19.920   0.124  52.332  0.00  0.00      gefi C  
+HETATM    9  C   UNK N   0      21.600  -0.646  53.899  0.00  0.00      gefi C  
+HETATM   10  C   UNK N   0      20.259  -0.514  53.530  0.00  0.00      gefi C  
+HETATM   11  C   UNK N   0      23.962  -0.316  53.470  0.00  0.00      gefi C  
+HETATM   12  C   UNK N   0      23.214  -1.360  55.470  0.00  0.00      gefi C  
+HETATM   13  O   UNK N   0      20.583   1.308  50.376  0.00  0.00      gefi O  
+HETATM   14  C   UNK N   0      21.105   2.557  50.092  0.00  0.00      gefi C  
+HETATM   15  C   UNK N   0      20.508   3.633  51.004  0.00  0.00      gefi C  
+HETATM   16  C   UNK N   0      21.467   4.104  52.110  0.00  0.00      gefi C  
+HETATM   17  N   UNK N   0      22.059   5.435  51.844  0.00  0.00      gefi N  
+HETATM   18  C   UNK N   0      21.363   6.166  50.763  0.00  0.00      gefi C  
+HETATM   19  C   UNK N   0      22.063   7.509  50.523  0.00  0.00      gefi C  
+HETATM   20  O   UNK N   0      23.416   7.310  50.161  0.00  0.00      gefi O  
+HETATM   21  C   UNK N   0      24.097   6.663  51.219  0.00  0.00      gefi C  
+HETATM   22  C   UNK N   0      23.483   5.284  51.488  0.00  0.00      gefi C  
+HETATM   23  O   UNK N   0      18.621   0.254  51.988  0.00  0.00      gefi O  
+HETATM   24  C   UNK N   0      17.696  -0.707  52.332  0.00  0.00      gefi C  
+HETATM   25  N   UNK N   0      25.044   0.056  52.619  0.00  0.00      gefi N  
+HETATM   26  H   UNK N   0      24.823   0.506  51.719  0.00  0.00      gefi H  
+HETATM   27  C   UNK N   0      26.418  -0.207  52.893  0.00  0.00      gefi C  
+HETATM   28  C   UNK N   0      26.992  -1.473  52.660  0.00  0.00      gefi C  
+HETATM   29  C   UNK N   0      28.325  -1.713  53.009  0.00  0.00      gefi C  
+HETATM   30  C   UNK N   0      29.099  -0.696  53.577  0.00  0.00      gefi C  
+HETATM   31  F   UNK N   0      30.388  -0.941  53.917  0.00  0.00      gefi F  
+HETATM   32  C   UNK N   0      28.537   0.566  53.803  0.00  0.00      gefi C  
+HETATM   33  C   UNK N   0      27.201   0.803  53.472  0.00  0.00      gefi C  
+HETATM   34 Cl   UNK N   0      29.498   1.852  54.512  0.00  0.00      gefiCl  
